@@ -1,1 +1,3 @@
-Code is in th python code folder
+**Python code for Construction of Wave-packets in 1D.**
+Reference:
+**Prof. Sastri, O.S.K.S.)**. (2023) **Computer Simulations in Quantum Physics**: Computer Simulations in Quantum Mechanics is the first in a book series towards implementing NEP-2020 that focuses on simulation activities that go hand-in-hand with theory classes. Publisher- Notion Press: Chennai. First Edition. *ISBN-13: 979-8891862128*. The implementation follows the theoretical framework established in Chapter 3, "**Constrction of  Wavepacket in 1D**," *pages 41-57*. This computational approach demonstrates the fundamental principles of quantum mechanical wave propagation in one-dimensional space using numerical methods. The source code is available in the supplementary materials folder. Direct purchase available at: https://amzn.in/d/hi9oY4X
